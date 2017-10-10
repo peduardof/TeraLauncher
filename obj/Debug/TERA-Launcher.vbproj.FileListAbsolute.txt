@@ -1,0 +1,11 @@
+Z:\Eduardo\Tera\Tera-Launcher-master\bin\Debug\TERA-Launcher.exe.config
+Z:\Eduardo\Tera\Tera-Launcher-master\bin\Debug\TERA-Launcher.exe
+Z:\Eduardo\Tera\Tera-Launcher-master\bin\Debug\TERA-Launcher.pdb
+Z:\Eduardo\Tera\Tera-Launcher-master\bin\Debug\TERA-Launcher.xml
+Z:\Eduardo\Tera\Tera-Launcher-master\obj\Debug\TERA-Launcher.vbprojResolveAssemblyReference.cache
+Z:\Eduardo\Tera\Tera-Launcher-master\obj\Debug\TERA_Launcher.frmMain.resources
+Z:\Eduardo\Tera\Tera-Launcher-master\obj\Debug\TERA_Launcher.Resources.resources
+Z:\Eduardo\Tera\Tera-Launcher-master\obj\Debug\TERA-Launcher.vbproj.GenerateResource.Cache
+Z:\Eduardo\Tera\Tera-Launcher-master\obj\Debug\TERA-Launcher.exe
+Z:\Eduardo\Tera\Tera-Launcher-master\obj\Debug\TERA-Launcher.xml
+Z:\Eduardo\Tera\Tera-Launcher-master\obj\Debug\TERA-Launcher.pdb
